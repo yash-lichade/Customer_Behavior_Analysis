@@ -93,8 +93,6 @@ An interactive **Power BI dashboard** was created to visualize:
 * Subscriptions
 * Ratings
 
-![Power BI Dashboard](images/dashboard.png)
-
 ---
 
 ## Results
